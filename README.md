@@ -4,4 +4,4 @@
 - 🌱 I’m currently focused on learning the fundamentals of web development, including: HTML, CSS, JavaScript
 - 💞️ I’m open to collaborating on projects that involve both design and web development.
 - If you have any exciting ideas or projects, feel free to reach out to me!
-Looking forward to learning and collaborating with the GitHub community! 😊
+Looking forward to learning and collaborating with the GitHub community!
